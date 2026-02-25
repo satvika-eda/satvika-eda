@@ -2,6 +2,12 @@
 AI Engineer building production-ready AI systems, LLM applications, and agent platforms.
 
 I focus on turning research ideas into reliable real-world systems.
+---
+
+## 🎬 See My Most recent AI System in Action
+
+[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]
+(https://www.youtube.com/watch?v=VIDEO_ID)
 
 ---
 
