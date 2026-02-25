@@ -42,3 +42,7 @@ Vector Databases • Kubernetes • AWS • GCP • MLOps • CI/CD
 ## 📫 Connect With Me
 LinkedIn: https://linkedin.com/in/satvika-eda  
 Portfolio: https://satvika-eda.github.io
+
+![Python](https://img.shields.io/badge/Python-AI-blue)
+![LLMs](https://img.shields.io/badge/LLMs-Agent%20Systems-purple)
+![MLOps](https://img.shields.io/badge/MLOps-Production-green)
