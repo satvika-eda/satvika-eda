@@ -6,8 +6,9 @@ I focus on turning research ideas into reliable real-world systems.
 
 ## 🎬 See My Most recent AI System in Action
 
-[![Watch the Demo](https://img.youtube.com/vi/byNmjo-YnuQ/0.jpg)](https://youtu.be/byNmjo-YnuQ)
-
+<a href="https://youtu.be/byNmjo-YnuQ">
+  <img src="https://img.youtube.com/vi/byNmjo-YnuQ/0.jpg" width="450">
+</a>
 ---
 
 ## 🧠 What I Work On
