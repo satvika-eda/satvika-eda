@@ -7,7 +7,7 @@ I focus on turning research ideas into reliable real-world systems.
 ## 🎬 See My Most recent AI System in Action
 
 <a href="https://youtu.be/byNmjo-YnuQ">
-  <img src="https://img.youtube.com/vi/byNmjo-YnuQ/0.jpg" width="300">
+  <img src="https://img.youtube.com/vi/byNmjo-YnuQ/0.jpg" width="200">
 </a>
 
 
