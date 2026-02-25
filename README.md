@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Satvika 👋
+AI Engineer building production-ready AI systems, LLM applications, and agent platforms.
 
-<!--
-**satvika-eda/satvika-eda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on turning research ideas into reliable real-world systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Work On
+• Large Language Model Applications  
+• Multi-Agent Systems & Automation  
+• Retrieval Augmented Generation (RAG)  
+• AI Platforms & Infrastructure  
+• Model Evaluation & Reliability  
+
+---
+
+## 🚀 Featured Projects
+
+### Multi-Agent Planning Platform
+Built an orchestration system coordinating multiple LLM agents to automate project planning workflows.
+• 95% intent routing accuracy
+• RAG-integrated knowledge retrieval
+• Autonomous execution workflows
+
+### Transformer Hyper-Connections
+Re-architected GPT-style transformer with dynamic multi-stream hidden states and adaptive routing.
+
+### Multi-Agent Code Development Team
+Planner → Developer → Debugger agent workflow using LangGraph with RLHF-style feedback loops.
+
+### RAG Enterprise Search
+Semantic document querying using embeddings + vector databases improving extraction accuracy.
+
+---
+
+## 🛠 Tech Stack
+Python • PyTorch • LangChain • LangGraph • FastAPI  
+Vector Databases • Kubernetes • AWS • GCP • MLOps • CI/CD
+
+---
+
+## 📫 Connect With Me
+LinkedIn: https://linkedin.com/in/satvika-eda  
+Portfolio: https://satvika-eda.github.io
