@@ -10,7 +10,7 @@ AI/ML Engineer building production-grade multi-agent systems and LLM platforms f
 
 ## 🏗 What I'm Building
 
-At **CBRE**, I built a Palantir AIP multi-agent property valuation system serving **600+ appraisers** across Wells Fargo, Bank of America, and Bank OZK — cutting processing time from hours to **30 seconds**.
+At **CBRE**, I built a Palantir AIP multi-agent property valuation system serving **600+ appraisers** across Wells Fargo, Bank of America, and Bank OZK cutting processing time from hours to **30 seconds**.
 
 ---
 
@@ -52,13 +52,6 @@ Natural language to functional webpage generation pipeline.
 - 🏦 Built production multi-agent platform at CBRE serving 3 major bank clients (Wells Fargo, Bank of America, Bank OZK)
 - 🎓 M.S. Artificial Intelligence, Northeastern University (Khoury College of Computer Sciences), Dec 2025
 - 🏫 Teaching Assistant — CS 4100 (Artificial Intelligence) & CS 5047 (AI Trends & Tools), Northeastern
-
----
-
-## 📊 GitHub Stats
-
-![Satvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satvika-eda&show_icons=true&hide_border=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satvika-eda&layout=compact&hide_border=true&theme=default)
 
 ---
 
