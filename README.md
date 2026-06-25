@@ -1,56 +1,66 @@
 # Hi, I'm Satvika 👋
-AI Engineer building production-ready AI systems, LLM applications, and agent platforms.
 
-I focus on turning research ideas into reliable real-world systems.
----
+AI/ML Engineer building production-grade multi-agent systems and LLM platforms for the enterprise.
 
-## 🎬 See My Most recent AI System in Action
-
-<a href="https://youtu.be/byNmjo-YnuQ">
-  <img src="https://img.youtube.com/vi/byNmjo-YnuQ/0.jpg" width="200">
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-satvika--eda-blue?style=flat&logo=linkedin)](https://linkedin.com/in/satvika-eda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-satvika--eda.github.io-informational?style=flat)](https://satvika-eda.github.io)
+[![Location](https://img.shields.io/badge/Boston%2C%20MA-United%20States-lightgrey?style=flat)](https://github.com/satvika-eda)
 
 ---
 
-## 🧠 What I Work On
-• Large Language Model Applications  
-• Multi-Agent Systems & Automation  
-• Retrieval Augmented Generation (RAG)  
-• AI Platforms & Infrastructure  
-• Model Evaluation & Reliability  
+## 🏗 What I'm Building
+
+At **CBRE**, I built a Palantir AIP multi-agent property valuation system serving **600+ appraisers** across Wells Fargo, Bank of America, and Bank OZK — cutting processing time from hours to **30 seconds**.
 
 ---
 
 ## 🚀 Featured Projects
 
-### Multi-Agent Planning Platform
-Built an orchestration system coordinating multiple LLM agents to automate project planning workflows.
-• 95% intent routing accuracy
-• RAG-integrated knowledge retrieval
-• Autonomous execution workflows
+### 🤖 [Multi-Agent Code Development Team with RLHF](https://github.com/satvika-eda/Multi_Agents_Code_Development_Team)
+Planner → Generator → Debugger agent pipeline with PPO-based reward model training and human/AI feedback loops.
+`LangGraph` · `Qwen2.5` · `RLHF / RLAIF` · `Streamlit`
 
-### Transformer Hyper-Connections
-Re-architected GPT-style transformer with dynamic multi-stream hidden states and adaptive routing.
+### 📄 [RAG Document Assistant](https://github.com/satvika-eda/RAG_based_document_assistant)
+Semantic document querying with embeddings and vector retrieval.
+`LangChain` · `FAISS` · `OpenAI`
 
-### Multi-Agent Code Development Team
-Planner → Developer → Debugger agent workflow using LangGraph with RLHF-style feedback loops.
+### 🌐 [Website Generation from NLP](https://github.com/satvika-eda/WebsiteGenerationNLP)
+Natural language to functional webpage generation pipeline.
+`Python` · `NLP` · `Transformers`
 
-### RAG Enterprise Search
-Semantic document querying using embeddings + vector databases improving extraction accuracy.
+---
+
+## 🎬 See a Project Demo
+
+[![Multi-Agent System Demo](https://img.youtube.com/vi/byNmjo-YnuQ/0.jpg)](https://youtu.be/byNmjo-YnuQ)
 
 ---
 
 ## 🛠 Tech Stack
-Python • PyTorch • LangChain • LangGraph • FastAPI  
-Vector Databases • Kubernetes • AWS • GCP • MLOps • CI/CD
+
+**Languages:** Python · SQL · JavaScript  
+**Agentic AI:** LangGraph · LangChain · Palantir AIP · OpenAI Agents SDK  
+**ML / DL:** PyTorch · Scikit-learn · HuggingFace · RLHF / PPO  
+**Data & Infra:** Kafka · AWS (MSK, S3, EC2) · Docker · FastAPI · PostgreSQL  
+**Vector DBs:** FAISS · Pinecone · Weaviate  
 
 ---
 
-## 📫 Connect With Me
-LinkedIn: https://linkedin.com/in/satvika-eda  
-Portfolio: https://satvika-eda.github.io
+## 📌 Career Highlights
 
-![Python](https://img.shields.io/badge/Python-AI-blue)
-![LLMs](https://img.shields.io/badge/LLMs-Agent%20Systems-purple)
-![MLOps](https://img.shields.io/badge/MLOps-Production-green)
+- 🏅 **U.S. Patent 12,223,309** — ML-driven SDK upgrade detection system (co-invented at JPMorgan Chase)
+- 🏦 Built production multi-agent platform at CBRE serving 3 major bank clients (Wells Fargo, Bank of America, Bank OZK)
+- 🎓 M.S. Artificial Intelligence, Northeastern University (Khoury College of Computer Sciences), Dec 2025
+- 🏫 Teaching Assistant — CS 4100 (Artificial Intelligence) & CS 5047 (AI Trends & Tools), Northeastern
+
+---
+
+## 📊 GitHub Stats
+
+![Satvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satvika-eda&show_icons=true&hide_border=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satvika-eda&layout=compact&hide_border=true&theme=default)
+
+---
+
+*Open to full-time AI/ML Engineer roles — [let's connect](https://linkedin.com/in/satvika-eda).*
+  
