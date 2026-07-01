@@ -67,10 +67,6 @@ Natural language to functional webpage pipeline — parses intent, maps to layou
 
 <div align="center">
 
-![Satvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satvika-eda&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satvika-eda&layout=compact&theme=default&hide_border=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=satvika-eda&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 </div>
