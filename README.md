@@ -1,59 +1,93 @@
-# Hi, I'm Satvika 👋
+<div align="center">
 
-AI/ML Engineer building production-grade multi-agent systems and LLM platforms for the enterprise.
+# Satvika Eda
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-satvika--eda-blue?style=flat&logo=linkedin)](https://linkedin.com/in/satvika-eda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-satvika--eda.github.io-informational?style=flat)](https://satvika-eda.github.io)
-[![Location](https://img.shields.io/badge/Boston%2C%20MA-United%20States-lightgrey?style=flat)](https://github.com/satvika-eda)
+**AI/ML Engineer** · I build multi-agent systems and LLM platforms that actually ship.
 
----
+*(yes, the agents sometimes disagree with each other. that's a feature.)*
 
-## 🏗 What I'm Building
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-satvika--eda-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/satvika-eda)
+[![Patent](https://img.shields.io/badge/US%20Patent-12%2C223%2C309-navy?style=flat&logo=google)](https://patents.google.com/patent/US12223309)
 
-At **CBRE**, I built a Palantir AIP multi-agent property valuation system serving **600+ appraisers** across Wells Fargo, Bank of America, and Bank OZK cutting processing time from hours to **30 seconds**.
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 [Multi-Agent Code Development Team with RLHF](https://github.com/satvika-eda/Multi_Agents_Code_Development_Team)
-Planner → Generator → Debugger agent pipeline with PPO-based reward model training and human/AI feedback loops.
-`LangGraph` · `Qwen2.5` · `RLHF / RLAIF` · `Streamlit`
-
-### 📄 [RAG Document Assistant](https://github.com/satvika-eda/RAG_based_document_assistant)
-Semantic document querying with embeddings and vector retrieval.
-`LangChain` · `FAISS` · `OpenAI`
-
-### 🌐 [Website Generation from NLP](https://github.com/satvika-eda/WebsiteGenerationNLP)
-Natural language to functional webpage generation pipeline.
-`Python` · `NLP` · `Transformers`
+</div>
 
 ---
 
-## 🎬 See a Project Demo
+## The quick version
 
-[![Multi-Agent System Demo](https://img.youtube.com/vi/byNmjo-YnuQ/0.jpg)](https://youtu.be/byNmjo-YnuQ)
+At **CBRE**, I built a Palantir AIP multi-agent appraisal platform serving 600+ appraisers across Wells Fargo, Bank of America, and Bank OZK — cutting processing time from hours to **30 seconds**.
 
----
+At **JPMorgan Chase**, I co-invented [U.S. Patent 12,223,309](https://patents.google.com/patent/US12223309) for an ML-driven SDK upgrade detection system, and spent ~2.5 years building distributed Java systems that (mostly) didn't page anyone at 3am.
 
-## 🛠 Tech Stack
-
-**Languages:** Python · SQL · JavaScript  
-**Agentic AI:** LangGraph · LangChain · Palantir AIP · OpenAI Agents SDK  
-**ML / DL:** PyTorch · Scikit-learn · HuggingFace · RLHF / PPO  
-**Data & Infra:** Kafka · AWS (MSK, S3, EC2) · Docker · FastAPI · PostgreSQL  
-**Vector DBs:** FAISS · Pinecone · Weaviate  
+M.S. in Artificial Intelligence, Northeastern University (Khoury College, Dec 2025). Also TA'd CS 4100 and CS 5047 there — turns out explaining AI to students is a great way to find out what you don't actually understand.
 
 ---
 
-## 📌 Career Highlights
+## Featured Projects
 
-- 🏅 **U.S. Patent 12,223,309** — ML-driven SDK upgrade detection system (co-invented at JPMorgan Chase)
-- 🏦 Built production multi-agent platform at CBRE serving 3 major bank clients (Wells Fargo, Bank of America, Bank OZK)
-- 🎓 M.S. Artificial Intelligence, Northeastern University (Khoury College of Computer Sciences), Dec 2025
-- 🏫 Teaching Assistant — CS 4100 (Artificial Intelligence) & CS 5047 (AI Trends & Tools), Northeastern
+### [🤖 Multi-Agent Code Development Team](https://github.com/satvika-eda/Multi_Agents_Code_Development_Team)
+Planner → Generator → Debugger pipeline with PPO-based reward model training and human/AI feedback loops. The RLHF loop uses human preference labels + GPT-4 as a judge to iteratively improve code quality. Three agents arguing about your code so you don't have to.
+
+`LangGraph` · `Qwen2.5` · `RLHF / RLAIF` · `PPO` · `Streamlit`
+
+### [📄 RAG Document Assistant](https://github.com/satvika-eda/RAG_based_document_assistant)
+Semantic document querying with chunked embeddings, FAISS vector retrieval, and conversational memory. Handles multi-document context with source attribution — because "I read it somewhere" isn't good enough for an LLM either.
+
+`LangChain` · `FAISS` · `OpenAI` · `Python`
+
+### [🌐 Website Generation from NLP](https://github.com/satvika-eda/WebsiteGenerationNLP)
+Natural language to functional webpage pipeline — parses intent, maps to layout components, renders HTML/CSS end-to-end. Still faster than most Figma handoffs.
+
+`Python` · `Transformers` · `NLP`
 
 ---
 
-*Open to full-time AI/ML Engineer roles — [let's connect](https://linkedin.com/in/satvika-eda).*
-  
+## Currently building
+
+> *The portfolio projects I work on at night after the agents at work finish arguing.*
+
+- **[LLM Evaluation Harness](https://github.com/satvika-eda/LLM-Evaluation-Harness)** — async job queue (Redis/RQ), PostgreSQL result store, RAGAS / DeepEval / BERTScore scorers, GPT-4o as judge. Because vibes are not a benchmark.
+- **Multi-Agent ICU Deterioration Monitor** — MIMIC-IV data, AWS MSK Kafka streaming, LangGraph orchestration, ECS Fargate. High stakes, low tolerance for hallucinations.
+
+---
+
+## Tech stack
+
+| | |
+|---|---|
+| **Languages** | Python · SQL · JavaScript |
+| **Agentic AI** | LangGraph · LangChain · OpenAI Agents SDK · Palantir AIP |
+| **ML / DL** | PyTorch · HuggingFace · Scikit-learn · RLHF / PPO |
+| **Infrastructure** | Kafka · AWS (MSK, S3, EC2) · Docker · FastAPI · PostgreSQL |
+| **Vector DBs** | FAISS · Pinecone · Weaviate |
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+![Satvika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satvika-eda&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satvika-eda&layout=compact&theme=default&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=satvika-eda&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## A few other things
+
+- 🏫 Teaching AI at Northeastern made me realize most AI problems are actually communication problems
+- 🧪 Currently obsessed with LLM evaluation — turns out measuring intelligence is harder than building it
+- 🚂 Strong preference for train-accessible day trips (Newport is underrated)
+- 📬 Ask me about: multi-agent orchestration, Palantir AIP, RLHF pipelines, or why your RAG isn't working
+
+---
+
+<div align="center">
+
+Open to full-time **AI/ML Engineer** roles. [Let's connect →](https://linkedin.com/in/satvika-eda)
+
+</div>
