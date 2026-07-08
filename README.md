@@ -15,7 +15,7 @@
 
 ## The quick version
 
-At **CBRE**, I built a Palantir AIP multi-agent appraisal platform serving 600+ appraisers across Wells Fargo, Bank of America, and Bank OZK — cutting processing time from hours to **30 seconds**.
+At **CBRE**, I built a Palantir AIP multi-agent appraisal platform serving 600+ appraisers across Wells Fargo, Bank of America, and Bank OZK cutting processing time from hours to **30 seconds**.
 
 At **JPMorgan Chase**, I co-invented [U.S. Patent 12,223,309](https://patents.google.com/patent/US12223309) for an ML-driven SDK upgrade detection system, and spent ~2.5 years building distributed Java systems that (mostly) didn't page anyone at 3am.
 
